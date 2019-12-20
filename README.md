@@ -1,4 +1,4 @@
-# cpsc4110project
+# Quantum Gates and Algorithms emulator
 Group project for university
 
 To compile this program simply run the Makefile from the root directory of the project folder.
