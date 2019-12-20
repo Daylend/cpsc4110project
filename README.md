@@ -1,4 +1,6 @@
 # cpsc4110project
+Group project for university
+
 To compile this program simply run the Makefile from the root directory of the project folder.
     Command: make
     This Makefile will create a bin folder and all of the compiled files will be placed there.
